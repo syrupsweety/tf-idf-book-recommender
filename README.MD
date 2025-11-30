@@ -52,8 +52,8 @@ Crime and Punishment by Fyodor Dostoevsky.txt
 Once running, you’ll see output like:
 
 ```
-🌟 Public URL: https://abcd1234.localtunnel.me
-🔐 Access Password (IP): 93.184.216.34
+🌟 Public URL: https://chilly-crabs-trade.loca.lt
+🔐 Access Password (IP): 34.74.120.135
 ```
 
 Visit the URL to use the interactive recommender:
